@@ -21,7 +21,7 @@ https://sonubhagatpur.github.io/
 I am a Blockchain Developer focused on Smart Contracts, DeFi, and Web3 applications.
 
 ## 📷 Preview
-(Add preview.png in repo)
+![SONU SINGH](image.png)
 
 ---
 
